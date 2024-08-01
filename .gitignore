@@ -3,3 +3,4 @@ clife.dSYM
 a.out
 .DS_Store
 obj/*
+test/*
